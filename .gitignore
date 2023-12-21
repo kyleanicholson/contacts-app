@@ -1,0 +1,15 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+# Python/backend files
+*.pyc
+.idea
+.venv/
+backend/_backup_contact_starter_data.py
+backend/contact_starter_data.py
+*.db
